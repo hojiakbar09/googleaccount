@@ -1,0 +1,112 @@
+
+body {
+    background-image: url(rt.jpg);
+    background-repeat: no-repeat;
+    background-position: 400px 199px;
+}.google {
+    margin-top: 50px;
+    width: 100px;
+}
+
+.re {
+    padding: 5px;
+    width: 184px;
+}
+
+.rt {
+    padding: 5px;
+    width: 184px;
+}
+
+.ew {
+    margin-bottom: 20px;
+}
+
+.yu {
+    padding: 5px;
+    width: 386px;
+}
+
+.sa {
+    text-decoration: none;
+}
+
+.gh,
+.jh {
+    padding: 5px;
+    width: 182px;
+}
+
+.jk {
+    text-decoration: none;
+}
+.next {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 5px 15px ;
+    margin-left: 200px;
+    border-radius: 3px;
+}
+.googlelogoe {
+    width: 170px;
+    margin-left: 246px;
+}
+.search {
+    width: 600px;
+    height: 100px;
+    margin-left: 16px;
+}
+.plus {
+   width: 30px;
+   margin-left: 309px; 
+}
+.add {
+    margin-left: 303px;
+
+}
+.nomer {
+border: 2px solid blue;
+background-color: aquamarine;
+border-radius: 4px;
+padding: 7px 5px;
+text-align: center;
+width: 300px;
+}
+.parol {
+    border: 2px solid blue;
+    background-color: aquamarine;
+    border-radius: 4px;
+    padding: 7px 5px;
+    text-align: center;
+    width: 300px;
+}
+.kirish {
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 4px;
+    color: wheat;
+    text-decoration: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 135px;
+    padding-right: 135px;
+    text-align: center;
+    width: 600px;
+}
+.uzat {
+    text-decoration: none;
+    margin-left: 87px;
+}
+.yangihisob {
+    text-decoration: none;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: green;
+    color: white;
+    border: 2px;
+    border-radius: 4px;
+margin-left: 30px;
+}
